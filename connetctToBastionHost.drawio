@@ -1,0 +1,82 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/129.0.0.0 Safari/537.36" version="24.7.17">
+  <diagram name="Page-1" id="ZTxA_hQ8l9NkMhSUo6B2">
+    <mxGraphModel dx="1368" dy="717" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#0D0D0D" math="0" shadow="1">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-7" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="90" y="290" width="690" height="370" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-9" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="50" y="245" width="770" height="460" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="x8avAvPzo9_lFbSCm4cW-1" target="x8avAvPzo9_lFbSCm4cW-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-1" value="" style="image;sketch=0;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/mscae/VM_Linux.svg;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="240.32999999999998" y="510" width="54.35" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-2" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/databases/Azure_Database_PostgreSQL_Server.svg;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="660" y="428" width="48" height="64" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="x8avAvPzo9_lFbSCm4cW-3" target="x8avAvPzo9_lFbSCm4cW-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-3" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Network_Security_Groups.svg;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="451.12" y="340" width="47.76" height="58" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="x8avAvPzo9_lFbSCm4cW-4" target="x8avAvPzo9_lFbSCm4cW-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-4" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/networking/Connections.svg;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="241.5" y="343" width="52" height="52" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" edge="1" parent="1" source="x8avAvPzo9_lFbSCm4cW-8" target="x8avAvPzo9_lFbSCm4cW-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-8" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=#FFFFFF;fillColor=#00BEF2;shape=mxgraph.azure.user;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="115" y="347" width="47.5" height="44" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-10" value="rg-esg-assessment-dev-main" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="260" y="218" width="180" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-11" value="levelup-postgres-db-bastion-nsg" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="380.00000000000006" y="398" width="190" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-12" value="User" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="116" y="395" width="50" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-13" value="levelup-postgres-db-bastion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="187.5" y="396" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-14" value="levelup-postgres-db-connect-to-bastion" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="560" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-15" value="db-www-vnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="580" y="260" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-16" value="levelup-postgres-db" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="619" y="485.5" width="130" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-26" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="186.25" y="340" width="172.5" height="99" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-27" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="132.5" y="482" width="270" height="114.5" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-28" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=none;dashed=1;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;strokeColor=#FFFFFF;" vertex="1" parent="1">
+          <mxGeometry x="618" y="410" width="131" height="114.25" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-29" value="db-subnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="680" y="384.75" width="80" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-30" value="bastion-subnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="223.75" y="305" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="x8avAvPzo9_lFbSCm4cW-31" value="vm-subnet" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontColor=#FFFFFF;textShadow=1;labelBackgroundColor=none;labelBorderColor=none;" vertex="1" parent="1">
+          <mxGeometry x="157.5" y="458.88" width="80" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
